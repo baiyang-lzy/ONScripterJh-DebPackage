@@ -1,0 +1,10 @@
+Package: onscripter-jh
+Version: 0.7.4-1
+Architecture: amd64
+Maintainer: 白羊李志远 <1102116021@qq.com>
+Installed-Size: 494
+Depends: libsdl-ttf2.0-0, libsdl-mixer1.2, libsmpeg0, libavifile-0.7c2, liblua5.1-0
+Section: games
+Priority: optional
+Homepage: https://github.com/baiyang-lzy/ONScripter-DebPackage
+Description: Deb Package of ONScripter-Jh For Debian-based Distributions.
